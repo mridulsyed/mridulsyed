@@ -1,6 +1,6 @@
 ### Hi there!!! Syed Siddique Mridul here!!!✨✨
 <hr>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=NahianAlindo&theme=dark&show_icons=true"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mridulsyed&theme=dark&show_icons=true"/>
 
 <!--
 **NahianAlindo/NahianAlindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@
     </a>
 </p>
 
-<p>You can also <a href="mailto:nahian.rifaat@gmail.com">Email</a> me. Have a nice day.</p>
+<p>You can also <a href="mailto:mridulsyed11@gmail.com">Email</a> me. Have a nice day.</p>
 <hr>
 <p align="left"><img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="20" height="20"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" alt="c" width="20" height="20" title='C'/>
