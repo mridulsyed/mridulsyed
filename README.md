@@ -1,4 +1,4 @@
-### Hi there!!! Nahian Rifaat here!!!✨✨
+### Hi there!!! Syed Siddique Mridul here!!!✨✨
 <hr>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=NahianAlindo&theme=dark&show_icons=true"/>
 
