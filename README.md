@@ -3,33 +3,22 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mridulsyed&theme=dark&show_icons=true"/>
 
 <!--
-**NahianAlindo/NahianAlindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mridulsyed/mridulsyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - 💬 Ask me about <b>Programming, Machine Learning, Tech.</b>
-- 🔭 I’m currently working on Gait Analysis (walking pattern of humans) using Deep Learning, and Computer Vision
+- 🔭 I’m currently working on the development of a model for spectral clustering of patients using Electronic Medical Records
 - 🌱 I’m currently learning Web Technologies, and also Bioinformatics
 <!--- 👯 I’m looking to collaborate on -->
 <!--- 🤔 I’m looking for help with Aspect extraction -->
 - 📫 How to reach me: 
 <p align="center">
-<a href="https://www.linkedin.com/in/mridulsyed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nahian_rifaat" height="30" width="30" />
+<a href="https://www.linkedin.com/in/mridulsyed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mridul_syed" height="30" width="30" />
     </a>
-    <a href="https://www.kaggle.com/nahianrifaat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nahianrifaat" height="30" width="30" />
+    <a href="https://facebook.com/mridul.syed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mridul_syed" height="30" width="30" />
     </a>
-    <a href="https://codeforces.com/profile/Nahian_Alindo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Nahian_Alindo" height="30" width="30" />
-    </a>
-    </a> 
-    <a href="https://stackoverflow.com/users/9213086/nahian-rifaat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9213086" height="30" width="30" />
-    </a>
-    <a href="https://facebook.com/nahian.alindo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nahian.alindo" height="30" width="30" />
-    </a>
-    <a href="https://www.instagram.com/nahian_rifaat_alindo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nahian_rifaat_alindo" height="30" width="30" />
-    </a>
-    <a href="https://twitter.com/nahian_rifaat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nahian_rifaat" height="30" width="30" />
-    <a href="https://forum.arduino.cc/index.php?action=profile;area=summary;u=1269867" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" alt="nahian_rifaat" height="30" width="30" />
-    </a>
+
 </p>
 
 <p>You can also <a href="mailto:mridulsyed11@gmail.com">Email</a> me. Have a nice day.</p>
@@ -53,8 +42,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
  
   
-<img align='right' src="https://komarev.com/ghpvc/?username=NahianAlindo" alt="NahianAlindo" /> </p>
+<img align='right' src="https://komarev.com/ghpvc/?username=mridulsyed" alt="mridulsyed" /> </p>
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahianAlindo)](https://github.com/NahianAlindo/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mridulsyed)](https://github.com/mridulsyed/github-readme-stats) -->
