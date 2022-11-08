@@ -33,13 +33,11 @@
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="20" height="20"/>
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200477237-2cfce5cf-a655-4d11-ae36-0a4d15811769.png" alt="Pandas" width="40" height="20"/>
-
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg" alt="npm" width="30" height="20"/>
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" alt="mongodb" width="50" height="25"/>
     <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="25" height="20"/>
     <img src="https://avatars1.githubusercontent.com/u/32689599?s=200&v=4" alt="android" width="20" height="20"/>
-   
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/git.svg" alt="Git" width="30" height="20" title='Git'/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="20" height="20" title='Linux'/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
