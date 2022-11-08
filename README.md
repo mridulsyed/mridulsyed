@@ -34,7 +34,7 @@
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200477237-2cfce5cf-a655-4d11-ae36-0a4d15811769.png" alt="Pandas" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200479383-8a929829-86d7-4cfd-b0a7-e94ef910219b.png" alt="Numpy" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200478031-8e9c0dce-0551-41ce-b31b-9db55d2e05d5.png" alt="Matplotlib" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200479515-4adf85af-95bd-41ef-871b-8f47a9efb983.png" alt="Matplotlib" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200478186-0100cf21-4388-4113-8aa7-fdde50820563.png" alt="Seaborn" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200478350-4db2ad41-b52b-4ef1-a839-1982683d636b.png" alt="Scikit-learn" width="40" height="20"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
