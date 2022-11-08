@@ -40,7 +40,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
     <img src="https://user-images.githubusercontent.com/31848938/200480154-bc5b22b5-35a4-414c-9153-4e21b7d302f2.png" alt="Pytorch" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200478657-1049b981-6e1a-4489-b403-53c33fcd3ce4.png" alt="MediaPipe" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200478732-b5b3dadb-b24a-4008-979b-d7c19b20b4eb.png" alt="OpenCV" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200480297-8a48b673-2045-4ac2-a826-4cf17ec30d06.png" alt="OpenCV" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200478824-011c9e6b-6f89-40e0-9e23-7b2af436b01c.png" alt="Latex" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200478895-62748be0-8cc5-471c-8f1c-d2dc67b28640.png" alt="Overleaf" width="40" height="20"/>
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/git.svg" alt="Git" width="30" height="20" title='Git'/>
