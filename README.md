@@ -32,8 +32,6 @@
     <img src="https://github.com/prplx/svg-logos/blob/master/svg/html5.svg" alt="html5" width="20" height="20"/>
     <img src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg" alt="css3" width="20" height="20"/>
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="20" height="20"/>
-    <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" alt="javascript" width="20" height="20"/>
-    <img src="https://github.com/prplx/svg-logos/raw/master/svg/nodejs.svg" alt="nodejs" width="40" height="20"/>
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg" alt="npm" width="30" height="20"/>
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" alt="mongodb" width="50" height="25"/>
     <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="25" height="20"/>
