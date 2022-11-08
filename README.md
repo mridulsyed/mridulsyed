@@ -34,6 +34,10 @@
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200477237-2cfce5cf-a655-4d11-ae36-0a4d15811769.png" alt="Pandas" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200477660-554c1038-5f4e-45cd-970c-1000b54d507d.png" alt="Numpy" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200478031-8e9c0dce-0551-41ce-b31b-9db55d2e05d5.png" alt="Matplotlib" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200478186-0100cf21-4388-4113-8aa7-fdde50820563.png" alt="Seaborn" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200477660-554c1038-5f4e-45cd-970c-1000b54d507d.png" alt="Numpy" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200477660-554c1038-5f4e-45cd-970c-1000b54d507d.png" alt="Numpy" width="40" height="20"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg" alt="npm" width="30" height="20"/>
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/mongodb.svg" alt="mongodb" width="50" height="25"/>
