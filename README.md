@@ -35,7 +35,7 @@
     <img src="https://user-images.githubusercontent.com/31848938/200477237-2cfce5cf-a655-4d11-ae36-0a4d15811769.png" alt="Pandas" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200479383-8a929829-86d7-4cfd-b0a7-e94ef910219b.png" alt="Numpy" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200479704-eb0dd9ac-dbf4-4c3b-b8c4-f5a1c888a4cf.png" alt="Matplotlib" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200478186-0100cf21-4388-4113-8aa7-fdde50820563.png" alt="Seaborn" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200479872-0f0993a0-72a9-462c-bfd4-1e6406299005.png" alt="Seaborn" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200478350-4db2ad41-b52b-4ef1-a839-1982683d636b.png" alt="Scikit-learn" width="40" height="20"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
     <img src="https://user-images.githubusercontent.com/31848938/200478491-129c7fd7-b6e9-46d6-b5e7-c1adf9153ada.png" alt="Pytorch" width="40" height="20"/>
