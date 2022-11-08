@@ -43,6 +43,13 @@
     <img src="https://user-images.githubusercontent.com/31848938/200480297-8a48b673-2045-4ac2-a826-4cf17ec30d06.png" alt="OpenCV" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200478824-011c9e6b-6f89-40e0-9e23-7b2af436b01c.png" alt="Latex" width="40" height="20"/>
     <img src="https://user-images.githubusercontent.com/31848938/200480432-685eb948-d69c-4dbc-9994-8d2079f4ee6f.png" alt="Overleaf" width="40" height="20"/>
+    
+    <img src="https://user-images.githubusercontent.com/31848938/200481072-7e619c7e-3015-4d84-a68c-a23665dad3af.png" alt="Jupyter" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200478657-1049b981-6e1a-4489-b403-53c33fcd3ce4.png" alt="MediaPipe" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200480297-8a48b673-2045-4ac2-a826-4cf17ec30d06.png" alt="OpenCV" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200478824-011c9e6b-6f89-40e0-9e23-7b2af436b01c.png" alt="Latex" width="40" height="20"/>
+    <img src="https://user-images.githubusercontent.com/31848938/200480432-685eb948-d69c-4dbc-9994-8d2079f4ee6f.png" alt="Overleaf" width="40" height="20"/>
+    
     <img src="https://github.com/prplx/svg-logos/raw/master/svg/git.svg" alt="Git" width="30" height="20" title='Git'/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="20" height="20" title='Linux'/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
