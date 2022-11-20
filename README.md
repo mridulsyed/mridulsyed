@@ -73,7 +73,7 @@
 <a href="https://www.linkedin.com/in/mridulsyed"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://github.com/mridulsyed"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>  <a href="https://www.kaggle.com/mridulsyed"><img width="72px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" /></a> 
 <a href="https://www.leetcode.com/mridul_syed"><img width="28px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" /></a>
-<a href="https://www.codeforces.com/Mridul_Syed"><img width="28px" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" /></a>
+<a href="https://www.codeforces.com/Mridul_Syed"><img width="28px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" /></a>
 </kbd>
 </p>
 
