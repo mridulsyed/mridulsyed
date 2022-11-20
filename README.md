@@ -1,57 +1,102 @@
-### Hi there!!! Syed Siddique Mridul here!!!✨✨
-<hr>
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mridulsyed&theme=dark&show_icons=true"/>
+<a href="https://github.com/mridulsyed" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mridulsyed&label=Profile%20views&color=129e00" alt="mridulsyed" /></a>
+      
+<h2 align="center">Hello, This is Mridul!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"><h4 align="center">Data Science | Machine Learning | Deep Learning | Computer Vision</h4></h2>
+
+
+<html>
+<body>
+      
+<p align="center">I'm a Computer Science & Engineering (CSE) Graduate 🎓 from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology (RUET)<a> 🏛,<br> passionate about Data Science, Machine Learning, Deep Learning and Computer Vision. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.<br>
+<p/>
+<h2 align="center">👨‍💻Skills👨‍💻</h2>
+<p style="display: inline-block;" align="center">
+<kbd>
+<kbd>Programming Languages</kbd>
+<br>
+<br>
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" /> 
+</kbd>
+<kbd>
+<kbd>Frameworks or Technologies</kbd>
+<br>
+<br>
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /> 
+<img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> 
+<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+</kbd>
+</p>  
+      
+      
+<h2 align="center">🥇Kaggle Statistics🥇</h2>
+<div align="center">
+<a href="https://www.kaggle.com/mridulsyed"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/mridulsyed" /></a>
+</div>
+<p align="center">
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/dataset" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/notebook" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/discussion" />
+</p>
+      
+<h2 align="center">📊Github Statistics📊</h2>     
+<div align="center">
+<a href="https://github.com/mridulsyed">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mridulsyedd&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Mridul's GitHub Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulsyed&layout=compact&theme=gotham">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulsyed&layout=compact&langs_count=7&theme=gotham" alt="Mridul's Top Languages"/>
+<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=mridulsyed&theme=gotham" alt="Mridul's GitHub Activity"/>
+</a>
+</div>     
+      
+      
+![Snake animation](https://github.com/mridulsyed/mridulsyed/blob/output/github-contribution-grid-snake.svg)
+     
+
+<p style="display: inline-block;" align="center">
+<kbd>
+<kbd>Reach Out Me</kbd>
+<br>
+<br>
+<a href="mailto:mridulsyed11@gmail.com"><img height="26px" width="28px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a> 
+<a href="https://www.linkedin.com/in/mridulsyed/"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://github.com/mridulsyed"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>  <a href="https://www.kaggle.com/mridulsyed"><img width="72px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" /></a> 
+</kbd>
+</p>
+
+      
+<body/> 
+<html/>
+
+
+
+
+
+
+
+
+
 
 <!--
 **mridulsyed/mridulsyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
-
-- Studying at <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
-- 💬 Ask me about <b>Programming, Machine Learning, Tech.</b>
-- 🔭 I’m currently working on the development of a model for spectral clustering of patients using Electronic Medical Records
-- 🌱 I’m currently learning Web Technologies, and also Bioinformatics
-<!--- 👯 I’m looking to collaborate on -->
-<!--- 🤔 I’m looking for help with Aspect extraction -->
-- 📫 How to reach me: 
-<p align="center">
-<a href="https://www.linkedin.com/in/mridulsyed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mridul_syed" height="30" width="30" />
-    </a>
-    <a href="https://facebook.com/mridul.syed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mridul_syed" height="30" width="30" />
-    </a>
-
-</p>
-
-<p>You can also <a href="mailto:mridulsyed11@gmail.com">Email</a> me. Have a nice day.</p>
-
-<hr>
-<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="20" height="20"/>
-    <img src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" alt="c" width="20" height="20" title='C'/>
-    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cplusplus" width="20" height="20"/>
-    <img src="https://github.com/prplx/svg-logos/blob/master/svg/html5.svg" alt="html5" width="20" height="20"/>
-    <img src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg" alt="css3" width="20" height="20"/>
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="20" height="20"/>
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200477237-2cfce5cf-a655-4d11-ae36-0a4d15811769.png" alt="Pandas" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200479383-8a929829-86d7-4cfd-b0a7-e94ef910219b.png" alt="Numpy" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200479704-eb0dd9ac-dbf4-4c3b-b8c4-f5a1c888a4cf.png" alt="Matplotlib" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200479872-0f0993a0-72a9-462c-bfd4-1e6406299005.png" alt="Seaborn" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200478350-4db2ad41-b52b-4ef1-a839-1982683d636b.png" alt="Scikit-learn" width="40" height="20"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="20" height="20" title='Tensorflow'/>
-    <img src="https://user-images.githubusercontent.com/31848938/200480154-bc5b22b5-35a4-414c-9153-4e21b7d302f2.png" alt="Pytorch" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200478657-1049b981-6e1a-4489-b403-53c33fcd3ce4.png" alt="MediaPipe" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200480297-8a48b673-2045-4ac2-a826-4cf17ec30d06.png" alt="OpenCV" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200478824-011c9e6b-6f89-40e0-9e23-7b2af436b01c.png" alt="Latex" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200480432-685eb948-d69c-4dbc-9994-8d2079f4ee6f.png" alt="Overleaf" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200481854-396086ec-1dec-4e11-afe9-764e446d8620.png" alt="Jupyter" width="40" height="20"/>
-    <img src="https://user-images.githubusercontent.com/31848938/200481462-d5a2f13c-a8ec-4b32-a1e1-4369357580db.png" alt="Colab" width="40" height="20"/>
-    <img src="https://github.com/prplx/svg-logos/raw/master/svg/git.svg" alt="Git" width="30" height="20" title='Git'/>
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="20" height="20" title='Linux'/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="ms powerpoint" width="22" height="22" title='Microsoft Powerpoint'/>
- 
-  
-<img align='right' src="https://komarev.com/ghpvc/?username=mridulsyed" alt="mridulsyed" /> </p>
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mridulsyed)](https://github.com/mridulsyed/github-readme-stats) -->
