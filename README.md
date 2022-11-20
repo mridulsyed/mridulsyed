@@ -43,9 +43,9 @@
 <a href="https://www.kaggle.com/mridulsyed"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/mridulsyed" /></a>
 </div>
 <p align="center">
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/dataset" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/notebook" />
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/discussion" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/dataset/light" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/notebook/light" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/mridulsyed/discussion/light" />
 </p>
       
 <h2 align="center">📊Github Statistics📊</h2>     
