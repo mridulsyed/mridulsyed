@@ -36,7 +36,6 @@
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /> 
 <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
 </kbd>
 </p>  
       
@@ -71,6 +70,7 @@
 <kbd>Reach Out Me</kbd>
 <br>
 <br>
+<a href="https://mridulsyed.github.io"><img width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg" /></a>
 <a href="mailto:mridulsyed11@gmail.com"><img height="26px" width="28px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a> 
 <a href="https://www.facebook.com/mridul.syed"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" /></a>
 <a href="https://www.linkedin.com/in/mridulsyed"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
