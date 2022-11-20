@@ -51,10 +51,10 @@
 <h2 align="center">📊Github Statistics📊</h2>     
 <div align="center">
 <a href="https://github.com/mridulsyed">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mridulsyed&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Mridul's GitHub Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulsyed&layout=compact&theme=default">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulsyed&layout=compact&langs_count=7&theme=default" alt="Mridul's Top Languages"/>
-<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=mridulsyed&theme=default" alt="Mridul's GitHub Activity"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mridulsyed&show_icons=true&theme=swift&include_all_commits=true&count_private=true" alt="Mridul's GitHub Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulsyed&layout=compact&theme=swift">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulsyed&layout=compact&langs_count=7&theme=swift" alt="Mridul's Top Languages"/>
+<img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=mridulsyed&theme=swift" alt="Mridul's GitHub Activity"/>
 </a>
 </div>     
       
