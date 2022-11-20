@@ -59,8 +59,9 @@
 </div>     
       
       
-![Snake animation](https://github.com/mridulsyed/mridulsyed/blob/output/github-contribution-grid-snake.svg)
-     
+![snake gif](https://github.com/mridulsyed/mridulsyed/blob/output/github-contribution-grid-snake.gif)
+
+
 
 <p style="display: inline-block;" align="center">
 <kbd>
