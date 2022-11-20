@@ -1,7 +1,7 @@
 <a href="https://github.com/mridulsyed" target="_blank"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mridulsyed&label=Profile%20views&color=129e00" alt="mridulsyed" /></a>
       
 <h2 align="center">Hello, This is Mridul!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
-      <h4 align="center"><a href="https://mridulsyed.github.io/">My Resume</a></h4>
+      <h3 align="center"><a href="https://mridulsyed.github.io/">Click here to view My Resume</a></h3>
       <h4 align="center">Data Science | Machine Learning | Deep Learning | Computer Vision</h4>
 </h2>
 
