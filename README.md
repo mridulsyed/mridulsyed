@@ -18,7 +18,7 @@
 <br>
 <br>
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> 
-<img width="30px" src="![image](https://user-images.githubusercontent.com/31848938/202905774-ba39c4b7-ad04-4630-8a4b-10fc0482f98b.png)" /> 
+<img width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgooglecolab&psig=AOvVaw2GqzEm-XpCPjFUZzh2uet&ust=1669038841397000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODCjqz0vPsCFQAAAAAdAAAAABAE" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
