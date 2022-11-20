@@ -23,14 +23,13 @@
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" /> 
 </kbd>
 <kbd>
-<kbd>Frameworks or Technologies</kbd>
+<kbd>ML and DL</kbd>
 <br>
 <br>
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" /> 
-<img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" /> 
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" /> 
 <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" /> 
