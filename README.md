@@ -69,17 +69,16 @@
 <br>
 <br>
 <a href="mailto:mridulsyed11@gmail.com"><img height="26px" width="28px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a> 
-<a href="https://www.facebook.com/mridul.syed/"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" /></a>
-<a href="https://www.linkedin.com/in/mridulsyed/"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.facebook.com/mridul.syed"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" /></a>
+<a href="https://www.linkedin.com/in/mridulsyed"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://github.com/mridulsyed"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>  <a href="https://www.kaggle.com/mridulsyed"><img width="72px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" /></a> 
+<a href="https://www.leetcode.com/mridul_syed"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" /></a>
 </kbd>
 </p>
 
       
 <body/> 
 <html/>
-
-
 
 
 
